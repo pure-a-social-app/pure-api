@@ -1,0 +1,7 @@
+Mongo account: teinnt
+Mongo pass: Sm45JR7PieHBaEMS (from quatao)
+
+mongodb+srv://teinnt:vQ3WzjQT8eTZrwpP@cluster0.7ty3p.mongodb.net/Pure?retryWrites=true&w=majority
+
+ngrok http 59185 -host-header="localhost:59185"
+
